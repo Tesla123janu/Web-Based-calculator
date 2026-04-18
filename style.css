@@ -1,10 +1,9 @@
 div{
     border: 2px solid purple;
-    position:absoute;
+    position:absolute;
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
-    background-color: pink;
 }
 
 button{
